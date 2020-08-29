@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing-: border-box;
+    -moz-box-sizing-: border-box;
+    -ms-box-sizing-:border-box;
+    box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+html{
+scroll-behavior: smooth;  
+
+}
+body{
+    height: auto;  
+    margin: 0;
+    padding: 0;
+}
+.prat{
+  text-align: center;
+  margin-top: 10px;
+  height: auto;
+  border: solid #000; 
+  border-radius: 10%;
+  
+}
+.prat img{
+  margin-top: 10px;
+border-radius: 50%;
+width: 65%;
+}
+.prat .h1,h3{
+  margin-top: 20px;
+}
+
